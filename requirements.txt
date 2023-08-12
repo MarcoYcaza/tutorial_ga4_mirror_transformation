@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+functions_framework
+google-cloud-bigquery-datatransfer
